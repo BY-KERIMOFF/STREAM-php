@@ -6,9 +6,9 @@
     },
     "channels": [
         {
-            "name": "showturk",
-            "slug": "showturk",
-            "url": "https://www.showturk.com.tr/canli-yayin/showturk"
+            "name": "showtv",
+            "slug": "showtv",
+            "url": "https://www.showtv.com.tr/canli-yayin"
         },
         {
             "name": "showmax",
