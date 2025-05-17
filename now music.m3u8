@@ -2,5 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-PLAYLIST-TYPE:event
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.640028,mp4a.40.2",BANDWIDTH=9216000,RESOLUTION=1280x720,FRAME-RATE=50
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48694&token=2687aa026d80602d2905f0f7b9fd3f40&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=48110&token=2593dc724df56737b54ca3b33613e48f&server=v2.catcast.tv
 
